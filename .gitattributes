@@ -1,0 +1,2 @@
+# Treat 3D model STL files as binary to prevent line ending conversion
+*.stl binary
